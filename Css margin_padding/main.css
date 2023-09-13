@@ -1,0 +1,16 @@
+body{
+    margin: 0px;
+}
+.caja{
+    margin: 8px;
+    background-color: blueviolet;
+    color: white;
+}
+
+/*padding*/
+.caja{
+    padding: 8px; /*relleno*/
+    border-style: solid;
+    border-width: 8px;
+    border-color: rgb(233, 151, 247);
+}
