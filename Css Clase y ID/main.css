@@ -1,0 +1,18 @@
+body{ 
+    background-color: antiquewhite;
+   
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+ /*comentario*/
+ #parrafo{ /* para id */
+    color: rgb(0, 0, 0);
+    border-color: rgb(252, 252, 252);
+
+ }
+
+ .etiqueta{  /*para clase */
+    color: blueviolet;
+ }
