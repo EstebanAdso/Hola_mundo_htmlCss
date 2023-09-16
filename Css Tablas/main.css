@@ -1,0 +1,22 @@
+table{
+    width: 100%;
+    background-color: azure;
+    border-collapse: collapse; /*para que se unan las lineas y no se miren los bordes*/
+}
+tr:nth-child(even) /*selecciona de uno en uno*/ {
+    background-color: aliceblue;
+
+}
+table th{
+    background-color: #08b4ee;
+    color: white;
+    text-align: left;
+    padding-top:12px;
+    padding-bottom: 12px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+td{
+    border: 1px solid #ddd;
+    padding: 6px
+}

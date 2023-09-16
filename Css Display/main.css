@@ -1,0 +1,12 @@
+p{
+    display: inline;
+    background-color: wheat;
+}
+span{
+    display: block;
+    background-color: azure;
+}
+.invisible {
+display: none;
+}
+

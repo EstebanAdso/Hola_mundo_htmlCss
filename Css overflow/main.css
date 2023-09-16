@@ -1,0 +1,9 @@
+#over {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    overflow: scroll; /*visible por defecto*/
+    /*scroll es para que se pueda mover*/
+    /*auto pone el scroll solo si lo necesita
+    /*hidden deja oculto lo de afuera del cuadro*/
+}

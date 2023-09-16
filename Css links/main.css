@@ -1,0 +1,26 @@
+a{
+    color: hotpink;
+    background-color: aqua; 
+    padding: 15px;
+    border-radius: 4px;
+    border: solid 1px black;
+    margin-left: 50px;
+    text-decoration: none; /*desaparecer linea subrayada*/
+}
+a:link {
+    color: pink;
+
+}
+a:visited{
+    color: rgb(69, 39, 39);
+}
+
+a:active{
+    color: blueviolet;
+}
+
+a:hover{
+    color: rebeccapurple;
+    text-decoration: underline;
+}
+ 

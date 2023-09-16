@@ -1,0 +1,22 @@
+.a li{
+     list-style-type: square; /*cambia a cuadrado*/
+}
+.b li{
+    list-style-type: upper-roman; /
+}
+.c li{
+    list-style-type: lower-alpha; /*cambia a cuadrado*/
+}
+.d li{
+    list-style-type:decimal-leading-zero; /*cambia a cuadrado*/
+}
+ul{
+    background-color: aqua;
+    border: solid 1px #ddd;
+    border-radius: 4px;
+    margin-left: 10px;
+    padding-left: 5px;
+}
+li{
+    border-bottom: solid 1px #ddd;
+}

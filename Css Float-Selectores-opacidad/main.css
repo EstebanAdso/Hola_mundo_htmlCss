@@ -1,0 +1,13 @@
+img{
+    float: right;
+    right: 13px;
+    position: relative;
+}
+div p{
+    color: rgb(39, 41, 128);
+}
+img:hover{
+    opacity: 0.5; /*valor del 0 al 1*/
+    transform: scale(3);
+
+}

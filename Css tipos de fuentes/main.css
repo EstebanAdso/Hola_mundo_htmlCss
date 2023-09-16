@@ -1,0 +1,6 @@
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic; /*italic es cursiva */
+    font-size: 20px;/*tamaño*/
+    font-weight: 800; /*se puede variar el ancho de la fuente*/
+}
