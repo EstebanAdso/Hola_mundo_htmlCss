@@ -1,0 +1,60 @@
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: aliceblue;
+    box-shadow: 1px 2px 2px gray;
+    position: relative;
+    left: 50px;
+    top: 50px;
+    transform: rotate(45deg);
+}
+.box2{
+    width: 100px;
+    height: 100px;
+    background-color: aliceblue;
+    box-shadow: 1px 2px 2px gray;
+    position: relative;
+    left: 50px;
+    top: 90px;
+    transform: translate(50px, 10px);/*derecha,abajo*/
+
+}
+.box3{
+    width: 100px;
+    height: 100px;
+    background-color: aliceblue;
+    box-shadow: 1px 2px 2px gray;
+    position: relative;
+    left: 50px;
+    top: 200px;
+    transform: scale(2,2); /*crecer en vertical y horizontal*/
+
+}
+.box4{
+    width: 100px;
+    height: 100px;
+    background-color: aliceblue;
+    box-shadow: 1px 2px 2px gray;
+    position: relative;
+    left: 50px;
+    top:300px;
+   
+    
+}
+.box4:hover{
+    transform: scale(1.1);
+ 
+    cursor: pointer;
+}
+.box5{
+    width: 100px;
+    height: 100px;
+    background-color: aliceblue;
+    box-shadow: 1px 2px 2px gray;
+    position: relative;
+    left: 50px;
+    top:300px;
+    transform: skew(25deg ,10deg);/*retorcer x,y*/
+   
+    
+}

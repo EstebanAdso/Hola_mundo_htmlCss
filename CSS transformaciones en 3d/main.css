@@ -1,0 +1,10 @@
+.box{
+    position: relative;
+    left: 50px;
+    top: 50px;
+    width: 100px;
+    height: 100px;
+    background-color: antiquewhite;
+    box-shadow: 1px,2px,2px gray;
+    transform: rotateX(60deg); /*inclinacion*/
+}

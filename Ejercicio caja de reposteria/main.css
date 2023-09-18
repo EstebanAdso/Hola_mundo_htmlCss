@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(233, 231, 231);
+}
+#caja1{
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    height: 30px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin: 10px;
+    border-left:3px solid red;
+    box-shadow: 1px 2px 2px gray;
+    transition: 0.3s;
+    
+}
+#caja1:hover{
+    transform: scale(1.1);
+}
+#caja2{
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    height: 30px;
+    color: rgb(5, 5, 5);
+    text-align: center;
+    margin: 10px;
+    box-shadow: 1px 2px 2px gray;
+    border-left:3px solid green;
+    transition: 0.3s;
+   
+}
+#caja2:hover{
+    box-shadow: 2px 4px 4px gray ;
+}
+#caja3{
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    height: 30px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin: 10px;
+    box-shadow: 1px 2px 2px gray;
+    border-left:3px solid blue;
+    transition: 0.8s;
+}
+#caja3:hover{
+   background-color: rgb(183, 177, 177);
+}

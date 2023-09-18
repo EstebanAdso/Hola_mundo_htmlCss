@@ -1,0 +1,16 @@
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: aliceblue;
+    box-shadow: 1px 2px 2px gray;
+    position: relative;
+    left: 100px;
+    top: 50px;
+    transition:  0,3s;
+    transition-delay: 0.3s;/*tiempo en que se demora al realizar la transicion*/
+}
+.box:hover{
+    width: 150px;
+    transform: scale(2,2) ;
+    background-color: antiquewhite;
+}

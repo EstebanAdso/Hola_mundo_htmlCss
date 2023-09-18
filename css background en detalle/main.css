@@ -1,0 +1,38 @@
+p{
+    color: white;
+}
+.fondo{
+    background-color: rgb(13, 112, 199);
+}
+.fondo1{
+    background-image: url(https://placekitten.com/200/300);
+}
+.fondo3{
+    background-image: url(https://placekitten.com/200/300);
+}
+.fondo4{
+    height: 400px;
+    width: 200px;
+    background-image: url(https://placekitten.com/200/300);
+}
+.fondo5{
+    height: 400px;
+    width: 200px;
+    background-image: url(https://placekitten.com/200/300);
+    background-repeat: no-repeat; /*para no repetir la imagen repeat-y o repeat-x*/
+    
+}
+.fondo6{
+    height: 400px;
+    background-color: aquamarine;
+    background-image: url(https://placekitten.com/200/300);
+    background-repeat: no-repeat; /*para no repetir la imagen repeat-y o repeat-x*/
+    background-position: right bottom; 
+}
+.fondo7{
+    height: 400px;
+    background-color: aquamarine;
+    background-image: url(https://placekitten.com/200/300);
+    background-repeat: no-repeat; /*para no repetir la imagen repeat-y o repeat-x*/
+    background-size: cover
+}

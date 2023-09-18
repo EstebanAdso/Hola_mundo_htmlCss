@@ -1,0 +1,18 @@
+.fondo1 {
+    background-image: linear-gradient(red, yellow);
+    /*direccion,color,color*/
+}
+
+.fondo2 {
+    background-image: linear-gradient(red, yellow, blue);
+    /*direccion,color,color*/
+}
+
+.fondo3 {
+    background-image: linear-gradient(to right,red, yellow);
+    /*direccion,color,color*/
+}
+.fondo4 {
+    background-image: linear-gradient(-45deg,red, yellow);
+    /*direccion,color,color*/
+}

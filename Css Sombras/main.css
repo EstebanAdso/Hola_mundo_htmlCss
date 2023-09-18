@@ -1,0 +1,8 @@
+.box{
+    box-shadow: 2px 2px 4px red;
+}
+.text{
+    color: white;
+    text-shadow: 0px 1px 2px blue;
+    /*deplzar a la derecha, abajo, difuminar, color*/
+}
