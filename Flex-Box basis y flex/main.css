@@ -1,0 +1,24 @@
+
+ .flex5{
+    background-color: aqua;
+    display: flex ; 
+    flex-flow: row wrap;
+    height: 200px;
+   
+   
+
+}
+  .red{
+    background-color: red;
+  }
+  .primero{/*por defecto viene de 0*/
+    background-color: brown;
+    flex-grow: 1;
+    flex-basis: 20px; /*da un ancho inicial al elememto*/
+  }
+  .segundo{
+   flex: 1 120px /*el primero es flex grow y el segundo es basis*/
+  }
+  .tercero{
+   flex-grow: 2;
+  }

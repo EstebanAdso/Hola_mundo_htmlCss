@@ -1,0 +1,15 @@
+.griv{
+    display:  grid;
+    grid-template-rows: 50px 100px;
+}
+.element{
+    background-color: red;
+}
+.griv1{
+    display:  grid;
+    grid-template-columns: 90px 50px 120px 50px; /*realiza varias columnas segun los valores dados*/
+}
+.element1{
+    background-color: rgb(42, 145, 168);
+}
+

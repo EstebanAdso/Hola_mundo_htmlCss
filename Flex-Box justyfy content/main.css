@@ -1,0 +1,27 @@
+.flex{
+    display: flex; /*el contenido se va de izquierda a derecha*/
+    flex-direction: row-reverse; /*cambia la horientacion del contenido*/
+}
+.flex2{
+    display: flex; 
+    flex-direction: column; /*cambia la horientacion del contenido a columna*/
+}
+.flex3{
+    display: flex; 
+    flex-direction: column-reverse; /*cambia la horientacion del contenido a columna*/
+}
+ body{
+    width: 300px;
+ }
+
+ .flex4{
+    display: flex; 
+    flex-wrap: wrap; /*el contenido que no alcanza a agrupar lo pone abajo*/
+ }
+ .flex5{
+    background-color: aqua;
+    display: flex ; 
+    flex-flow: row wrap;
+    justify-content: center; /*end, space between, space around, space evenly*/
+    align-items: stretch ; /*por defecto flex start*/
+  }

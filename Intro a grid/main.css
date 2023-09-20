@@ -1,0 +1,13 @@
+.griv{
+    display:  inline-grid;
+}
+.element{
+    background-color: red;
+}
+.griv1{
+    display:  grid;
+}
+.element1{
+    background-color: red;
+}
+

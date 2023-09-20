@@ -1,0 +1,23 @@
+
+ .flex5{
+    background-color: aqua;
+    display: flex ; 
+    flex-flow: row wrap;
+    height: 200px;
+   
+   
+
+}
+  .red{
+    background-color: red;
+  }
+  .primero{/*por defecto viene de 0*/
+   
+    flex-grow: 1;
+  }
+  .segundo{
+   flex-grow: 1;
+  }
+  .tercero{
+   flex-grow: 2;
+  }
